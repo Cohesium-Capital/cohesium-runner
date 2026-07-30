@@ -172,4 +172,3 @@ Tell the operator, in numbers:
 - **A connection error is a setup problem, not a reason to improvise.** In the
   Claude app that almost always means network access is not set to full — say
   so and stop, rather than finding another way to produce rows.
-
